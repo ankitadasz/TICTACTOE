@@ -10,7 +10,7 @@
   display: flex;
 }
 .Square-Box{
-  border: 2px solid black;
+  border: 2px solid rgb(239, 50, 50);
   height: 100px;
   width: 100px;
   display: flex;
